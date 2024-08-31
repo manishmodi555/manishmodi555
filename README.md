@@ -7,7 +7,7 @@ I'm a passionate developer from Ahemdabad. I love working on web development pro
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning full stack
-- 💬 Ask me about [Your Expertise]
+- 💬 Ask me about Web Development: JavaScript frameworks, responsive design, or web performance optimization.
 - 📫 How to reach me: manishmodi314@gmail.com
 
 ## Skills
